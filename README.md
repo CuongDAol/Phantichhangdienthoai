@@ -6,16 +6,15 @@ Dự án nhằm thu thập, xử lý và phân tích dữ liệu sản phẩm đ
 
 ---
 
-.
+```
 ├── phone_data.xlsx                   # File gốc chứa dữ liệu thu thập từ website
 ├── phone_data <date>.xlsx           # File dữ liệu đã xử lý
 ├── 03_completed_web_crawl.ipynb     # Notebook crawl dữ liệu sản phẩm
 ├── phan tich và bieu do.ipynb       # Notebook phân tích và trực quan dữ liệu
 ├── File.sql                         # Tập lệnh tạo CSDL và nhập dữ liệu
 └── README.md                        # Tài liệu mô tả dự án
+```
 
-
----
 
 ## 🧪 Công nghệ sử dụng
 
