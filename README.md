@@ -2,7 +2,7 @@
 
 ## 🧾 Mục tiêu
 
-Dự án nhằm thu thập, xử lý và phân tích dữ liệu sản phẩm điện thoại từ các nguồn online, để khám phá những yếu tố ảnh hưởng đến giá bán như RAM, chip, bộ nhớ, thương hiệu,... Dự án cũng minh họa quy trình crawl dữ liệu, làm sạch, phân tích thống kê và trực quan hóa thông tin.
+Dự án nhằm thu thập, xử lý và phân tích dữ liệu sản phẩm điện thoại từ thegioididong, để khám phá những yếu tố ảnh hưởng đến giá bán như RAM, chip, bộ nhớ, thương hiệu,... Dự án cũng minh họa quy trình crawl dữ liệu, làm sạch, phân tích thống kê và trực quan hóa thông tin.
 
 ---
 
